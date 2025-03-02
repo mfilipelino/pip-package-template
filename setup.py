@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="pip-package-setup",
+    name="pip-package-template",
     version="0.1.0",
     packages=find_packages(),
     description="A minimal Python package installable from GitHub",
